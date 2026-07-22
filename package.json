@@ -1,0 +1,16 @@
+{
+  "name": "cesky-vokativ",
+  "version": "1.0.0",
+  "description": "Prevod ceskeho krestniho jmena do 5. padu (vokativu)",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "keywords": ["czech", "vocative", "vokativ", "cestina", "sklonovani"],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.0",
+    "vitest": "^4.1.9"
+  }
+}
