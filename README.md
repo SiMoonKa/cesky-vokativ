@@ -11,6 +11,8 @@ czechVocative("Tomáš");   // "Tomáši"
 czechVocative("Marie");   // "Marie"  ← nejistý případ, vrací 1. pád
 ```
 
+![Ukázka: Simona → Simono, Petr → Petře, Tomáš → Tomáši](docs/ukazka.png)
+
 ## Proč to vzniklo
 
 Psala jsem rezervační platformu, kde aplikace oslovuje uživatele jménem. Oslovení v 1. pádě („Vítej, Lucie!") působí stroze a strojově — ale čeština má vokativ **zrádný** a špatně vyskloňované jméno je horší než nevyskloňované.
